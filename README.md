@@ -1,0 +1,3 @@
+# Tailwind CSS Gradient Background Rendering Issue
+
+This repository demonstrates an uncommon bug encountered while using Tailwind CSS gradient backgrounds.  The gradient background may not render correctly on some browsers or devices. This is likely due to a conflict between Tailwind's configuration or browser-specific rendering issues.  The solution presented addresses this problem by ensuring compatibility across various browsers and environments.
